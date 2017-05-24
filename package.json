@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sci-bots-widgets",
+        "scope": null,
+        "escapedName": "sci-bots-widgets",
+        "name": "sci-bots-widgets",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\lucaszw\\Documents\\SciBots\\libs"
+    ]
+  ],
+  "_from": "sci-bots-widgets@latest",
+  "_id": "sci-bots-widgets@1.0.0",
+  "_inCache": true,
+  "_location": "/sci-bots-widgets",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/sci-bots-widgets-1.0.0.tgz_1495183914132_0.32172490004450083"
+  },
+  "_npmUser": {
+    "name": "sci-bots",
+    "email": "info@sci-bots.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sci-bots-widgets",
+    "scope": null,
+    "escapedName": "sci-bots-widgets",
+    "name": "sci-bots-widgets",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/sci-bots-widgets/-/sci-bots-widgets-1.0.0.tgz",
+  "_shasum": "23e2b70a458c749ad0581120b0d6327b4287916e",
+  "_shrinkwrap": null,
+  "_spec": "sci-bots-widgets",
+  "_where": "C:\\Users\\lucaszw\\Documents\\SciBots\\libs",
+  "author": {
+    "name": "Sci-Bots"
+  },
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "dat.gui": "^0.6.1",
+    "jquery-slim": "^3.0.0",
+    "json-editor": "^0.7.28",
+    "phosphor-messaging": "^1.0.6",
+    "phosphor-widget": "^1.0.0-rc.1"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "23e2b70a458c749ad0581120b0d6327b4287916e",
+    "tarball": "https://registry.npmjs.org/sci-bots-widgets/-/sci-bots-widgets-1.0.0.tgz"
+  },
+  "license": "MIT",
+  "main": "widgets.js",
+  "maintainers": [
+    {
+      "name": "sci-bots",
+      "email": "info@sci-bots.com"
+    }
+  ],
+  "name": "sci-bots-widgets",
+  "optionalDependencies": {},
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sci-bots/widgets"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
